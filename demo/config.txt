@@ -1,0 +1,4 @@
+pfc_threshold:20.0
+sensitivity:5.0
+energy_recovery:20.0
+memory_size:5
